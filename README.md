@@ -1,5 +1,10 @@
 # GroupCart 🛒
 
+#IMPORTANT NOTICE: USE OWN DISCORD KEY AND GEMMA 4 API
+
+
+
+
 This is based on the problem statement : Buy Together: Help a community combine small purchase requests into one order. Use Gemma to turn messages like “need two notebooks” into structured items, then group matching requests in code. One-day build: an editable shared order sheet with quantities and totals.
 
  Which is on the website : https://indore.pydata.org/hacktoberfest/
