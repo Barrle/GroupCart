@@ -1,0 +1,5 @@
+discord.py>=2.4
+aiohttp>=3.9
+google-genai>=1.0
+fastapi>=0.110
+uvicorn>=0.29
